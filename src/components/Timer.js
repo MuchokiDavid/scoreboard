@@ -30,7 +30,7 @@ function Timer() {
 
   return (
     <div >
-        <div className='bg-blue-900 text-white '>
+        <div className='bg-blue-900 text-white w-1/2'>
            <Row><h5>STOPWATCH</h5></Row>
             <Row>
                 <Col><h1>{counter}</h1></Col>

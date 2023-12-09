@@ -25,7 +25,6 @@ function PlayerForm() {
     
   return (
     <div>
-        <h2>Player Form</h2>
         <form>
             <label>
                 <input

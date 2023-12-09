@@ -1,15 +1,14 @@
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import PlayerForm from './components/PlayerForm';
-import Timer from './components/Timer';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Welcome to your scoreboard </h1>
-      <PlayerForm/>
-      <Timer/>
+    <div className="App mt-8">
+      <Header/>
+      <Footer/>
     </div>
   );
 }
