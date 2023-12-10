@@ -1,0 +1,1 @@
+export const playerList = ["ASHLEY","MIKE","DENIS"]

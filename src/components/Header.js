@@ -11,7 +11,7 @@ function Header() {
         <Container>
             <Row className='bg-blue-300'>
                 <Col className='pe-8 bg-blue-900'><Total/></Col>
-                <Col><h1>SCOREBOARD</h1></Col>
+                <Col><h1 className='mt-4'>SCOREBOARD</h1></Col>
                 <Col className='pe-8 bg-blue-900'><Timer/></Col>
             </Row>
             
